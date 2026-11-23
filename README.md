@@ -5,6 +5,7 @@
 # Reg No : 212225240067
 
 ## Aim
+
 To implement a basic lane detection pipeline using OpenCV by completing missing code segments at specified locations.
 
 ## Learning Objective
